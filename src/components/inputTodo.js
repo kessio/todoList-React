@@ -11,10 +11,14 @@ class InputTodo extends Component {
       }
       handleSubmit = e => {
         e.preventDefault();
+        if (this.state.title.trim()) {
         this.props.addTodoProps(this.state.title);
         this.setState({
             title: ""
           });   // clear input field after submit
+        }else{
+            alert("You can not submit an empty item");
+        }
       };
   render() {
     return (
