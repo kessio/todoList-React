@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# todoList-React
+
+>This project contains a simple todo list created using react following a tutorial. A user can add and delete items in the todo List
+
+#### Objectives
+- Use JavaScript events.
+- Use React life cycle methods.
+- Understand the mechanism of lifting state up.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
