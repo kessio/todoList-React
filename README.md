@@ -6,6 +6,7 @@
 - Use JavaScript events.
 - Use React life cycle methods.
 - Understand the mechanism of lifting state up.
+- understand react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
